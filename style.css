@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 21px;
+}
+header {
+    background-color: darkcyan;
+}
+footer p {
+    font-size: 17.5px;
+    color: white;
+    margin-left: 40px;
+}
+footer {
+    background-color: darkcyan;
+    padding: 15px;
+}
+a {
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-bottom: 35px;
+    margin-top: 15px;
+    margin-right:5px;
+    font-family: sans-serif;
+}
+img {
+    padding: 15px 15px 15px 35px;
+}
+h2 {
+    color: orangered;
+}
